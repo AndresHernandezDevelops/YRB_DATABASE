@@ -1,0 +1,2 @@
+# YRB_DATABASE
+this program is a menu intended for customers to buy books offered by the clubs they belong to. The database from which my code fetches data is located at York University's servers. if you're an EECS student at York University you may log into their servers remotely or at the prison labs and type the commands "source ~db2leduc/cshrc.runtime" and "source ~db2leduc/.cshrc" to connect to the database, finally compile and run my main.java file.
